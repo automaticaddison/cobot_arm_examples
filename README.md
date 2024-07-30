@@ -39,7 +39,7 @@ To build this package, clone this repository into your ROS 2 workspace and build
 
 ```bash
 cd ~/ros2_ws/src
-git clone https://github.com/your-username/cobot_arm_examples.git
+git clone https://github.com/automaticaddison/cobot_arm_examples.git
 cd ..
 colcon build --packages-select cobot_arm_examples
 source ~/ros2_ws/install/setup.bash
